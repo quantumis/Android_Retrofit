@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Computers_Firm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pay">pay</string>
+    <string name="sale">sale</string>
+    <string name="name1">name1</string>
+</resources>
